@@ -1,0 +1,10 @@
+**__pycache__/
+*.sqlite3
+*.lock
+.hypothesis
+!app/
+!/app/
+!core/
+!/core/
+**/*sample
+!env/
